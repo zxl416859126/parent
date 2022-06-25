@@ -1,0 +1,8 @@
+com/example/demo/ServiceApplication.class
+com/example/rabbitmq/RPCClient.class
+com/example/rabbitmq/RPCServer.class
+com/example/rabbitmq/RabbitMqConsumer.class
+com/example/rabbitmq/RabbitMqProducer$1.class
+com/example/rabbitmq/RPCServer$1.class
+com/example/rabbitmq/RabbitMqProducer.class
+com/example/rabbitmq/RabbitMqConsumer$1.class
